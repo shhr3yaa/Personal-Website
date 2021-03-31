@@ -1,0 +1,48 @@
+<div grid-row="" grid-pad="2" grid-gutter="4">
+	<div grid-col="5" grid-pad="2">
+    	<b><a href="#" rel="home_page"><div style="display: inline-block; transform:rotate(-180deg) scale(-1, 1);">︎</div>&nbsp; &nbsp; &nbsp;Welcome to my portfolio page! &nbsp;</a></b><br>
+<br>
+ 
+ 
+ 
+    </div>
+	<div grid-col="7" grid-pad="2">
+    	<div style="text-align: right;"><a href="https://www.instagram.com/shhr3yaa/" target="_blank" class="icon-link">︎</a>&nbsp; 
+ 
+            <a href="https://www.youtube.com/" target="_blank" class="icon-link">︎</a>&nbsp; 
+            <a href="https://soundcloud.com/cargocollective" target="_blank" class="icon-link">︎</a>&nbsp; 
+            <a href="https://vimeo.com" target="_blank" class="icon-link">︎</a>&nbsp; 
+            <a href="contact-form" class="icon-link" rel="history">︎</a>
+<br>
+ &nbsp;&nbsp; 
+            
+            	<span class="data-panel" infotype="time"></span>
+<!--
+Clocks, Dates, and More
+
+https://support.cargo.site/Adding-Clocks-Dates-and-more
+-->
+           
+        </div>
+    </div>
+</div>
+
+
+
+
+<br>
+<h1><span style="background-color: rgba(180, 189, 235, 0.69); color: rgb(146, 53, 53);"><span style="color: rgb(146, 53, 53);"><span style="color: rgb(146, 53, 53);"><b>Shreya Peddi&nbsp;</b></span></span></span>
+</h1>
+<div class="image-gallery" gid="7">
+{image 45 caption="About me!"}
+<a target="_blank" href="https://open.spotify.com/playlist/25Fvpo8gpnl6YlYo6gA3vX?si=i_v8F8D6THG8g8C_ytwjrA" class="image-link">{image 47 caption="Fav playlist"}</a>
+{image 46 caption="Feb Grocery List"}
+<a rel="history" href="Photo-Porfolio" class="image-link">{image 25 caption="Photo Portfolio"}</a>
+<a rel="history" href="Moods" class="image-link">{image 25 caption="MSU VS Pink Event graphics"}</a>
+<a rel="history" href="Moods-copy" class="image-link">{image 25 caption="Marketing Projects"}</a>
+<a rel="history" href="Private-Page" class="image-link">{image 3 caption="Info"}</a>
+<a rel="history" href="Private-Page" class="image-link">{image 40 caption="CV_2020"}</a>
+<a rel="history" href="Private-Page" class="image-link">{image 5 caption="Case competition awards"}</a>
+</div><br><br><br>
+Shreya P<br>
+<a target="_blank" href="https://www.youtube.com"></a><a href="mailto:peddishr@msu.edu" class="image-link">{image 34 scale="9"}</a>{image 31 scale="10"}<a target="_blank" href="https://blogs.oregonstate.edu/animalconnection/2012/01/19/five-cool-things-about-llamas/" class="image-link">{image 35 scale="8"}</a>{image 17 scale="16" draggable}
