@@ -1,0 +1,25 @@
+<div grid-row="" grid-pad="2" grid-gutter="4">
+	<div grid-col="5" grid-pad="2">
+    	<b><a href="#" rel="home_page"><div style="display: inline-block; transform:rotate(-180deg) scale(-1, 1);">︎</div>&nbsp; &nbsp; &nbsp;True Studio &nbsp; &nbsp; &nbsp; </a></b>
+ 
+    </div>
+	<div grid-col="7" grid-pad="2">
+    	<div style="text-align: right">
+        	<a href="https://www.instagram.com/cargoworld/" target="_blank" class="icon-link">︎</a>&nbsp; 
+            <a href="https://twitter.com/cargocollective" target="_blank" class="icon-link">︎</a>&nbsp; 
+            <a href="https://www.youtube.com/" target="_blank" class="icon-link">︎</a>&nbsp; 
+            <a href="https://soundcloud.com/cargocollective" target="_blank" class="icon-link">︎</a>&nbsp; 
+            <a href="https://vimeo.com" target="_blank" class="icon-link">︎</a>&nbsp; 
+            <a href="contact-form" class="icon-link" rel="history">︎</a>
+ &nbsp;&nbsp; 
+            
+            	<span class="data-panel" infotype="time"></span>
+<!--
+Clocks, Dates, and More
+
+https://support.cargo.site/Adding-Clocks-Dates-and-more
+-->
+           
+        </div>
+    </div>
+</div>
